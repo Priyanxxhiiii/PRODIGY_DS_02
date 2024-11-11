@@ -59,8 +59,8 @@ EDA is used to understand the dataset better through visualizations and summary 
 ## Usage
 1. Clone this repository or download the files.
 2. Download the dataset from Titanic Dataset (Kaggle).
-3. Place the [`tested.csv`]( file in the project directory.
-4. Run the Python code in [`Titanic.ipynb`]( (Jupyter Notebook) or as a Python script to clean the data and perform EDA.
+3. Place the [`tested.csv`](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/tested.csv) file in the project directory.
+4. Run the Python code in [`Titanic.ipynb`](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/Titanic.ipynb) (Jupyter Notebook) or as a Python script to clean the data and perform EDA.
 
 ## Results
 This analysis yields key insights such as:
