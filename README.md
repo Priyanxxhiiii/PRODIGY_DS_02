@@ -9,8 +9,8 @@ Welcome to my submission for Task 2 of the Data Science Internship at Prodigy In
 - [Overview](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/README.md#overview)
 - [Dataset](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/README.md#dataset)
 - Steps Involved
-   - [Data Cleaning]()
-   - [Exploratory Data Analysis (EDA)]()
+   - [Data Cleaning](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/tree/main?tab=readme-ov-file#1-data-cleaning)
+   - [Exploratory Data Analysis (EDA)](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/tree/main?tab=readme-ov-file#2-exploratory-data-analysis-eda)
 - [Requirements]()
 - [Usage]()
 - [Results]()
