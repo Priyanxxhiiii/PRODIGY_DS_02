@@ -48,9 +48,7 @@ Data cleaning ensures the dataset is ready for analysis. The following steps are
 EDA is used to understand the dataset better through visualizations and summary statistics. Key visualizations include:
 
 - **Age Distribution:** A histogram with a KDE curve is created to visualize the distribution of passengers' ages.
-  
 - **Gender Distribution:** A count plot shows the number of male and female passengers.
-  
 - **Age vs. Fare:** A scatter plot displays the relationship between passenger age and fare, with color indicating age.
   
 
@@ -62,11 +60,13 @@ EDA is used to understand the dataset better through visualizations and summary 
    - Matplotlib
    - Seaborn
 
+
 ## Usage
 1. Clone this repository or download the files.
 2. Download the dataset from Titanic Dataset (Kaggle).
 3. Place the [`tested.csv`](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/tested.csv) file in the project directory.
 4. Run the Python code in [`Titanic.ipynb`](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/Titanic.ipynb) (Jupyter Notebook) or as a Python script to clean the data and perform EDA.
+
 
 ## Results
 This analysis yields key insights such as:
@@ -76,6 +76,7 @@ This analysis yields key insights such as:
 - **Relationship Between Age and Fare:** Visualizing how passenger age correlates with fare.
   
 These findings lay the groundwork for further analysis or predictive modeling, such as survival prediction based on various factors.
+
 
 ## References
 - [Titanic Dataset (Kaggle)](https://www.kaggle.com/datasets/brendan45774/test-file?select=tested.csv)
