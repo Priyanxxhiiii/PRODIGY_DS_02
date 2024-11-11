@@ -29,3 +29,47 @@ The Titanic dataset, widely available on Kaggle, includes details of passengers 
    - `Embarked`: Port of embarkation.
    - `Cabin`: Cabin number or unknown if missing.
    - `Survived`: Whether the passenger survived the incident.
+
+## Project Workflow
+**1. Data Cleaning**
+Data cleaning ensures the dataset is ready for analysis. The following steps are applied:
+
+- **Handling Missing Values:**
+   - The missing values in the `Embarked` column are removed by dropping rows where `Embarked` is missing.
+   - Missing values in the `Cabin` column are filled with the string `"Unknown"`.
+   - Missing values in the `Age` column are replaced with the mean age of all passengers.
+- **Removing Duplicates:** Duplicates in the dataset are identified and removed.
+- **Verifying Nulls and Duplicates:** After cleaning, the dataset is checked for any remaining missing values or duplicates.
+
+**2. Exploratory Data Analysis (EDA)**
+EDA is used to understand the dataset better through visualizations and summary statistics. Key visualizations include:
+
+- **Age Distribution:** A histogram with a KDE curve is created to visualize the distribution of passengers' ages.
+- **Gender Distribution:** A count plot shows the number of male and female passengers.
+- **Age vs. Fare:** A scatter plot displays the relationship between passenger age and fare, with color indicating age.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook or any Python IDE
+- Libraries:
+   - Pandas
+   - Matplotlib
+   - Seaborn
+
+## Usage
+1. Clone this repository or download the files.
+2. Download the dataset from Titanic Dataset (Kaggle).
+3. Place the `tested.csv` file in the project directory.
+4. Run the Python code in `titanic.ipynb` (Jupyter Notebook) or as a Python script to clean the data and perform EDA.
+
+## Results
+This analysis yields key insights such as:
+- **Age Distribution:** Understanding the distribution of ages among passengers.
+- **Survival by Gender:** Exploring the number of male and female passengers.
+- **Relationship Between Age and Fare:** Visualizing how passenger age correlates with fare.
+These findings lay the groundwork for further analysis or predictive modeling, such as survival prediction based on various factors.
+
+## References
+- Titanic Dataset (Kaggle)
+- Pandas Documentation
+- Seaborn Documentation
