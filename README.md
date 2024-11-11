@@ -31,7 +31,7 @@ The Titanic dataset, widely available on Kaggle, includes details of passengers 
    - `Survived`: Whether the passenger survived the incident.
 
 ## Project Workflow
-**1. Data Cleaning**
+### 1. Data Cleaning
 Data cleaning ensures the dataset is ready for analysis. The following steps are applied:
 
 - **Handling Missing Values:**
@@ -41,7 +41,7 @@ Data cleaning ensures the dataset is ready for analysis. The following steps are
 - **Removing Duplicates:** Duplicates in the dataset are identified and removed.
 - **Verifying Nulls and Duplicates:** After cleaning, the dataset is checked for any remaining missing values or duplicates.
 
-**2. Exploratory Data Analysis (EDA)**
+### 2. Exploratory Data Analysis (EDA)
 EDA is used to understand the dataset better through visualizations and summary statistics. Key visualizations include:
 
 - **Age Distribution:** A histogram with a KDE curve is created to visualize the distribution of passengers' ages.
