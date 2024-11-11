@@ -70,6 +70,6 @@ This analysis yields key insights such as:
 These findings lay the groundwork for further analysis or predictive modeling, such as survival prediction based on various factors.
 
 ## References
-- Titanic Dataset (Kaggle)
-- Pandas Documentation
-- Seaborn Documentation
+- [Titanic Dataset (Kaggle)](https://www.kaggle.com/datasets/brendan45774/test-file?select=tested.csv)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
