@@ -7,14 +7,14 @@ Welcome to my submission for Task 2 of the Data Science Internship at Prodigy In
 
 ## Table of Contents
 - [Overview](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/README.md#overview)
-- Dataset
+- [Dataset](https://github.com/Priyanxxhiiii/PRODIGY_DS_02/blob/main/README.md#dataset)
 - Steps Involved
-   - Data Cleaning
-   - Exploratory Data Analysis (EDA)
-- Requirements
-- Usage
-- Results
-- References
+   - [Data Cleaning]()
+   - [Exploratory Data Analysis (EDA)]()
+- [Requirements]()
+- [Usage]()
+- [Results]()
+- [References]()
 
 ## Overview
 The Titanic dataset, widely available on Kaggle, includes details of passengers aboard the Titanic, such as their age, gender, fare, class, and whether they survived. This project aims to clean the dataset by handling missing values, removing duplicates, and then using visualizations to explore key patterns.
