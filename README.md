@@ -48,8 +48,11 @@ Data cleaning ensures the dataset is ready for analysis. The following steps are
 EDA is used to understand the dataset better through visualizations and summary statistics. Key visualizations include:
 
 - **Age Distribution:** A histogram with a KDE curve is created to visualize the distribution of passengers' ages.
+  
 - **Gender Distribution:** A count plot shows the number of male and female passengers.
+  
 - **Age vs. Fare:** A scatter plot displays the relationship between passenger age and fare, with color indicating age.
+  
 
 ## Requirements
 - Python 3.x
@@ -67,9 +70,11 @@ EDA is used to understand the dataset better through visualizations and summary 
 
 ## Results
 This analysis yields key insights such as:
+
 - **Age Distribution:** Understanding the distribution of ages among passengers.
 - **Survival by Gender:** Exploring the number of male and female passengers.
 - **Relationship Between Age and Fare:** Visualizing how passenger age correlates with fare.
+  
 These findings lay the groundwork for further analysis or predictive modeling, such as survival prediction based on various factors.
 
 ## References
