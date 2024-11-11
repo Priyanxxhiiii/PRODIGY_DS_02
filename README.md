@@ -22,9 +22,10 @@ The Titanic dataset, widely available on Kaggle, includes details of passengers 
 ## Dataset
 - Source: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/brendan45774/test-file?select=tested.csv)
 - Description: This dataset includes various features of Titanic passengers such as:
+  
    - `Age`: The age of the passenger.
-   - Fare: The amount paid for the ticket.
-   - Sex: Gender of the passenger.
-   - Embarked: Port of embarkation.
-   - Cabin: Cabin number or unknown if missing.
-   - Survived: Whether the passenger survived the incident.
+   - `Fare`: The amount paid for the ticket.
+   - `Sex`: Gender of the passenger.
+   - `Embarked`: Port of embarkation.
+   - `Cabin`: Cabin number or unknown if missing.
+   - `Survived`: Whether the passenger survived the incident.
