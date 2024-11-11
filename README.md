@@ -35,10 +35,13 @@ The Titanic dataset, widely available on Kaggle, includes details of passengers 
 Data cleaning ensures the dataset is ready for analysis. The following steps are applied:
 
 - **Handling Missing Values:**
+  
    - The missing values in the `Embarked` column are removed by dropping rows where `Embarked` is missing.
    - Missing values in the `Cabin` column are filled with the string `"Unknown"`.
    - Missing values in the `Age` column are replaced with the mean age of all passengers.
+     
 - **Removing Duplicates:** Duplicates in the dataset are identified and removed.
+  
 - **Verifying Nulls and Duplicates:** After cleaning, the dataset is checked for any remaining missing values or duplicates.
 
 ### 2. Exploratory Data Analysis (EDA)
