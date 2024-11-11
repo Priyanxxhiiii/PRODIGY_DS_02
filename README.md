@@ -7,8 +7,8 @@ Welcome to my submission for Task 2 of the Data Science Internship at Prodigy In
 - Overview
 - Dataset
 - Steps Involved
-  - Data Cleaning
-  - Exploratory Data Analysis (EDA)
+   - Data Cleaning
+   - Exploratory Data Analysis (EDA)
 - Requirements
 - Usage
 - Results
